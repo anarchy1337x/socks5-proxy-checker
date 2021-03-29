@@ -5,6 +5,4 @@ Don't judge as this code was written as a PoC, and is sloppily coded, feel free 
 
 Expect more updates if i can be bothered lol.
 
-<a href="https://i.imgur.com/pw8Oe5R.png">
-  <img align="left" alt="Image" width="20px" src="https://i.imgur.com/pw8Oe5R.png" />
-</a>
+![Example image](https://i.imgur.com/pw8Oe5R.png)
